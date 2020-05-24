@@ -1,3 +1,26 @@
 body{
     background-image: url("https://www.thebestwallpaperplace.com/images/arte-wallpaper-wildwalk-eden-p1726-12969_image.jpg");
 }
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(73, 50, 37);
+    padding: 15px;
+}
+h3{
+    color: aliceblue;
+}
+img{
+    width: 390px;
+    height: 340px;
+    display:block;
+    margin:auto;
+}
+p{
+    color: white;
+}
+a{
+    color: white;
+}
