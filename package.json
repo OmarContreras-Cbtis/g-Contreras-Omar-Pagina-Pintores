@@ -1,0 +1,22 @@
+{
+  "name": "g-contreras-omar-pagina-pintores",
+  "version": "1.0.0",
+  "description": "sitio web acerca de pintores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarContreras-Cbtis/g-Contreras-Omar-Pagina-Pintores.git"
+  },
+  "author": "Omar Alejandro Contreras Arroyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmarContreras-Cbtis/g-Contreras-Omar-Pagina-Pintores/issues"
+  },
+  "homepage": "https://github.com/OmarContreras-Cbtis/g-Contreras-Omar-Pagina-Pintores#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
